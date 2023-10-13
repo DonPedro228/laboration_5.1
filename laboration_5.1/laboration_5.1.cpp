@@ -17,6 +17,9 @@ double h(const double a, const double b)
 {
 	return (a * a - sin(b)*cos(a) + b*b);
 }
+int sum(int s, int t) {
+	return s + t;
+}
 
 
 
